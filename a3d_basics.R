@@ -1,4 +1,4 @@
-### Atlantis_3d: visualising an Atlantis polygon map in three dimensions!
+### Atlantis_3d: visualising an Atlantis polygon map in three dimensions
 
 ## Author: I. Stollberg, 2024
 
